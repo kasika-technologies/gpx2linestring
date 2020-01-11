@@ -1,4 +1,14 @@
 # gpx2linestring
 
-GPX to GeoJSON LineString
+Convert GPX to GeoJSON LineString.
+
+
+```bash
+Usage:
+  gpx2linestring filename
+
+Flags:
+  -h, --help   help for gpx2linestring
+
+```
 
